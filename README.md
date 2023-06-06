@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. Welcome to my GitHub!
 
 <!--
 **vidhimittal13/vidhimittal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Vidhi. I'm currently a junior at Emory University, majoring in Computer Science and Economics.
+
+- 👩🏻‍💻 My personal website: https://www.vidhimittal.com/
+- 📫 How to reach me: vidhi.mittal@emory.edu
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I've got a bunch here! : https://www.vidhimittal.com/post/your-title-what-s-your-blog-about
