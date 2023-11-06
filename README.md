@@ -19,4 +19,4 @@ My name is Vidhi. I'm currently a junior at Emory University, majoring in Comput
 - 👩🏻‍💻 My personal website: https://www.vidhimittal.com/
 - 📫 How to reach me: vidhi.mittal@emory.edu
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I've got a bunch here :) --> https://www.vidhimittal.com/post/your-title-what-s-your-blog-about
+- ⚡ Fun fact: I've got a bunch here :) --> https://www.vidhimittal.com/post/my-first-blog-post
